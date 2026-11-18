@@ -1,0 +1,11 @@
+evidence,learner,assessed,received,result,days
+v1,l1,2026-08-01,2026-08-05,employed,45
+v2,l2,2026-08-10,2026-08-11,employed,35
+v3,l3,2026-08-15,2026-08-16,employed,34
+v4,l4,2026-09-20,2026-09-21,unemployed,0
+v5,l5,2026-09-20,2026-09-21,contact_lost,
+v6,l7,2026-09-28,2026-09-30,employed,50
+v7,l8,2026-09-28,2026-09-30,employed,40
+v8,l10,2026-09-29,2026-09-30,employed,40
+v9,l11,2026-09-25,2026-09-27,employed,31
+v10,l5,2026-09-28,2026-10-09,employed,36

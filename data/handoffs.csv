@@ -1,0 +1,5 @@
+receipt,learner,from_school,to_school,effective,received,state
+h1,l1,A,B,2026-05-24,2026-05-25,confirmed
+h2,l3,A,B,2026-06-20,2026-06-28,disputed
+h3,l3,A,B,2026-06-20,2026-10-02,confirmed
+h4,l11,A,B,2026-06-15,2026-10-06,disputed

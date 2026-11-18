@@ -1,0 +1,62 @@
+{
+  "tables": {
+    "learners": [
+      "learner",
+      "stratum",
+      "eligible"
+    ],
+    "courses": [
+      "course",
+      "learner",
+      "school",
+      "part",
+      "accepted",
+      "completed"
+    ],
+    "handoffs": [
+      "receipt",
+      "learner",
+      "from_school",
+      "to_school",
+      "effective",
+      "received",
+      "state"
+    ],
+    "verification": [
+      "evidence",
+      "learner",
+      "assessed",
+      "received",
+      "result",
+      "days"
+    ],
+    "seat_actions": [
+      "notice",
+      "school",
+      "period",
+      "seats",
+      "state",
+      "posted"
+    ]
+  },
+  "references": [
+    [
+      "courses",
+      "learner",
+      "learners",
+      "learner"
+    ],
+    [
+      "handoffs",
+      "learner",
+      "learners",
+      "learner"
+    ],
+    [
+      "verification",
+      "learner",
+      "learners",
+      "learner"
+    ]
+  ]
+}
