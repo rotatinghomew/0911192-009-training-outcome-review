@@ -8,7 +8,7 @@ import unittest
 from inspect_inputs import load_tables
 
 
-DATA = Path(__file__).parent / "data"
+DATA = Path(__file__).resolve().parents[1] / "data"
 
 
 class InputTests(unittest.TestCase):

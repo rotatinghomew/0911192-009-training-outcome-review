@@ -20,5 +20,5 @@ CSV 使用 UTF-8 和逗号分隔。值留空表示这条资料未给出该字段
 
 ```sh
 python3 inspect_inputs.py
-python3 -m unittest -v
+python3 -m unittest discover -s tests -v
 ```
